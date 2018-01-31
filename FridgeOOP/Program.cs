@@ -10,6 +10,7 @@ namespace FridgeOOP
     {
         static void Main(string[] args)
         {
+                      
         }
     }
 }
